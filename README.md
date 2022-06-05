@@ -126,7 +126,7 @@ int main(int argc, const char *argv[])
   return 0;
 }
 ```
-이 소스코드에서 int로 선언된 변수 4개 a, b, c, d의 이름을 _a,_b,_c,_d로 바꾸려고한다.
+***이 소스코드에서 int로 선언된 변수 4개 a, b, c, d의 이름을 _a,_b,_c,_d로 바꾸려고한다.***
 
 1) :5ENTER - 5번라인으로 이동
 2) qa - q키로 매크로 녹화시작. a는 매크로의 이름
