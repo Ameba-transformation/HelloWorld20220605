@@ -182,16 +182,16 @@ int main(int argc, const char *argv[])
 
 ---
 # 참조사이트
-[리눅스top명령어로서버의상태파악하기](https://sabarada.tistory.com/146)
+* [리눅스top명령어로서버의상태파악하기](https://sabarada.tistory.com/146)
 
-[리눅스명령어top](https://starrykss.tistory.com/1691?category=592475)
+* [리눅스명령어top](https://starrykss.tistory.com/1691?category=592475)
 
-[리눅스ps명령어(프로세스확인명령어,특정프로세스확인)](https://arer.tistory.com/150)
+* [리눅스ps명령어(프로세스확인명령어,특정프로세스확인)](https://arer.tistory.com/150)
 
-[리눅스jobs명령어 사용법](https://hbase.tistory.com/265)
+* [리눅스jobs명령어 사용법](https://hbase.tistory.com/265)
 
-[리눅스jobs](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_jobs)
+* [리눅스jobs](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_jobs)
 
-[리눅스kill명령어 사용법(프로세스 죽이기)](https://sisiblog.tistory.com/209)
+* [리눅스kill명령어 사용법(프로세스 죽이기)](https://sisiblog.tistory.com/209)
 
-[Vim자동편집을위한길,Recording](http://seorenn.blogspot.com/2011/04/vim-recording.html)
+* [Vim자동편집을위한길,Recording](http://seorenn.blogspot.com/2011/04/vim-recording.html)
